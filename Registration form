@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Student Registration Form</h1>
+
+
+ <h3>Fist Name:&nbsp&nbsp&nbsp&nbsp&nbsp  <input type="text"placeholder="Enter fist name"></h3> 
+ 
+ <h3>Fist Name:&nbsp&nbsp&nbsp&nbsp&nbsp  <input type="text"placeholder="Enter last name"></h3>
+ 
+ <h3>Mail     :&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  <input type="text"placeholder="it should be contain @"></h3>
+ 
+ 
+ <h3>Mobile   :&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  <input type="text"placeholder="only 10 digits are allowed"></h3>
+ 
+ 
+ <h3>Gender:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <input type="radio"name="male"/>Male <input type="radio"name="female"/>female <input type="radio"name="other"/>other</h3>
+ 
+   <h3>Address:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<textarea rows="4"cols="50"></textarea></h3>
+   
+ 
+  <h3>Date of Birth:&nbsp<input type="text"placeholder="dd/mm/yy"></h3>
+  
+  <h3>City:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="text"</h3>
+  
+  <h3>Area PIN:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="text"></h3>
+  
+   <h3>State:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="textarea"></h3>
+   
+<label>
+Qualification:&nbsp&nbsp&nbsp&nbsp&nbsp
+</label>
+<select>
+<option value="Qualification">Select Qualification</option>
+</select>
+<div>
+<h3>Specialization:<input type="radio"name="">Computer Science<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="radio"name="">Information technology<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="radio"name="">Computrer Architecture<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="radio"name="">Tele Communication
+
+
+<h3>Password:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="text"></h3>
+<br>
+
+<button>Registered</button>
+
+</body>
+</html>
